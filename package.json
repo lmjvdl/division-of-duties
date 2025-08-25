@@ -13,11 +13,14 @@
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.3.1",
     "@mui/material": "^7.3.1",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
     "next": "15.5.0",
     "react": "19.1.0",
     "react-date-object": "^2.1.9",
     "react-dom": "19.1.0",
-    "react-multi-date-picker": "^4.5.2"
+    "react-multi-date-picker": "^4.5.2",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
